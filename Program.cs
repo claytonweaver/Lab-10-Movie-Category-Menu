@@ -7,10 +7,7 @@ namespace Lab_10_Movie_List
     {
         static void Main(string[] args)
         {
-
-            // Here is an instance of movie library which has a list of Movies
-           
-            MovieLibrary library = new MovieLibrary(new List<Movie>
+            var movieList = new List<Movie>
             {
                 new Movie("Star Wars","sci-fi", 1),
                 new Movie("Pulp Fiction","action", 2),
@@ -19,7 +16,10 @@ namespace Lab_10_Movie_List
                 new Movie("Indiana Jones","action", 2),
                 new Movie("Star Trek","sci-fi", 1),
                 new Movie("Airplane","comedy", 4)
-            });
+            };
+
+            // Here is an instance of movie library which has a list of Movies
+            MovieLibrary library = new MovieLibrary(movieList);
 
             // Now you have access to everything you need to write to console
             // We do all of our writing to console here.  Movies shouldn't care if its information will be written to 
