@@ -7,6 +7,30 @@ namespace Lab_10_Movie_List
     {
         static void Main(string[] args)
         {
+
+            // Here is an instance of movie library which has a list of Movies
+           
+            MovieLibrary library = new MovieLibrary(new List<Movie>
+            {
+                new Movie("Star Wars","sci-fi", 1),
+                new Movie("Pulp Fiction","action", 2),
+                new Movie("Fight Club", "thriller", 3),
+                new Movie("Scary Movie 3", "comedy", 4),
+                new Movie("Indiana Jones","action", 2),
+                new Movie("Star Trek","sci-fi", 1),
+                new Movie("Airplane","comedy", 4)
+            });
+
+            // Now you have access to everything you need to write to console
+            // We do all of our writing to console here.  Movies shouldn't care if its information will be written to 
+            // a file or to the console or over the internet.  That is the job of the User Interface (UI).
+
+            // print all movie categories
+            Console.WriteLine(library.GetMovieCategories());
+
+            // I'll leave it up to you to do the actual implementation
+            // I just really want you to understand the design part of what I'm trying explain
+
             List<Movie> movies = new List<Movie>
             {
                 new Movie("Star Wars","sci-fi", 1),
