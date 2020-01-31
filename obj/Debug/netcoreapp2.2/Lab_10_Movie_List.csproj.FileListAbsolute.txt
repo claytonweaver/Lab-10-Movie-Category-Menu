@@ -1,0 +1,11 @@
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_10_Movie_List\bin\Debug\netcoreapp2.2\Lab_10_Movie_List.deps.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_10_Movie_List\bin\Debug\netcoreapp2.2\Lab_10_Movie_List.runtimeconfig.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_10_Movie_List\bin\Debug\netcoreapp2.2\Lab_10_Movie_List.runtimeconfig.dev.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_10_Movie_List\bin\Debug\netcoreapp2.2\Lab_10_Movie_List.dll
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_10_Movie_List\bin\Debug\netcoreapp2.2\Lab_10_Movie_List.pdb
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_10_Movie_List\obj\Debug\netcoreapp2.2\Lab_10_Movie_List.csprojAssemblyReference.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_10_Movie_List\obj\Debug\netcoreapp2.2\Lab_10_Movie_List.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_10_Movie_List\obj\Debug\netcoreapp2.2\Lab_10_Movie_List.AssemblyInfoInputs.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_10_Movie_List\obj\Debug\netcoreapp2.2\Lab_10_Movie_List.AssemblyInfo.cs
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_10_Movie_List\obj\Debug\netcoreapp2.2\Lab_10_Movie_List.dll
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Lab_10_Movie_List\obj\Debug\netcoreapp2.2\Lab_10_Movie_List.pdb
